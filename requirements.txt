@@ -1,0 +1,9 @@
+pandas
+matplotlib
+numpy
+scipy
+seaborn
+streamlit
+plotly
+neurokit2
+jinja2
