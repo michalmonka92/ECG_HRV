@@ -79,9 +79,7 @@ st.markdown(f"""
 
 @st.cache_data
 def load_my_data():
-    file='ekg_czesc2.txt'
-    path_inp="C:/Michal/Dydaktyka/2025-2026/LATO/Srody/Zaawansowane_Lab_FIZ_MED_2st_1rok/"
-    os.chdir(path_inp)
+    file='EKG+ODDECH.txt'
     data = pd.read_csv(file, sep='\t', decimal=',', header=None)
 
     return data
