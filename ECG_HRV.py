@@ -23,8 +23,7 @@ import neurokit2 as nk
 
 #%%--------------------------------Lokalizacja pliku---------------------------
 
-path_inp="C:/Michal/Dydaktyka/2025-2026/LATO/Srody/Zaawansowane_Lab_FIZ_MED_2st_1rok/"
-os.chdir(path_inp)
+
 
 #%%--------------------------------Ustawienia wstępne--------------------------
 
